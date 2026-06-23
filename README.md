@@ -1,8 +1,8 @@
 # Olá, eu sou o Victor! 👋
 
 ### **Desenvolvedor Back-End | TypeScript & Node.js**
-📍 Brasil | ✉️ seu-email@email.com | 📱 (00) 99999-9999  
-🔗 [LinkedIn](https://linkedin.com/in/seu-user) | 💻 [Meu Portfólio Completo](https://github.com/TurynX?tab=repositories)
+📍 Brasil 
+🔗 [LinkedIn](https://www.linkedin.com/in/victor-hugopop/) | 💻 [Meu Portfólio Completo](https://github.com/TurynX?tab=repositories)
 
 ---
 
