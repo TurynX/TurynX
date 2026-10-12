@@ -2,7 +2,7 @@
 
 ### **Desenvolvedor Back-End | TypeScript & Node.js**
 📍 Brasil 
- | 💻 [Meu Portfólio Completo](https://github.com/TurynX?tab=repositories)
+ 🔗 [LinkedIn](https://www.linkedin.com/in/victor-hugopop/) | 💻 [Meu Portfólio Completo](https://github.com/TurynX?tab=repositories)
 
 ---
 
